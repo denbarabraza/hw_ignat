@@ -18,7 +18,6 @@
     top: 0;
     left: 0;
     background-color: #415757;
-    overflow-x: hidden;
     padding-top: 60px;
     transition: 0.5s;
 }
