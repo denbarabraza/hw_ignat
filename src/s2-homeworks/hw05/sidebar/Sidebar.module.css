@@ -8,9 +8,6 @@
     overflow-x: hidden;
     padding-top: 60px;
     transition: 0.5s;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 .sidebar.open {
@@ -32,6 +29,9 @@
 
 .nav {
     padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .nav a {
@@ -51,6 +51,8 @@
     color: #00cc22;
 }
 .close {
+   margin: 0 auto;
+    text-align: center;
 }
 
 .close img {
