@@ -43,7 +43,6 @@ const SuperSelect: React.FC<SuperSelectPropsType> = ({
     }
 
     const finalSelectClassName = s.select + (className ? ' ' + className : '')
-
     return (
         <select
             className={finalSelectClassName}
