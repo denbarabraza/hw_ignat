@@ -12,7 +12,7 @@ function Clock() {
     const start = () => {
         // пишут студенты // запустить часы (должно отображаться реальное время, а не +1)
         // сохранить ид таймера (https://learn.javascript.ru/settimeout-setinterval#setinterval)
-        let valueID=setInterval(() => setDate(new Date()));
+        let valueID=setInterval(() => setDate(new Date()),0);
         setTimerId(+valueID)
     }
 
@@ -32,7 +32,6 @@ function Clock() {
     let formatter1 = new Intl.DateTimeFormat("ru", {
         hour: "numeric",
         minute: "numeric",
-        second: "numeric"
     })
     const stringTime = formatter1.format(date) || <br/> // часы24:минуты:секунды (01:02:03)/(23:02:03)/(24:00:00)/(00:00:01) // пишут студенты
 
