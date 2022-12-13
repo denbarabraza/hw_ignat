@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/hw_ignat/static/css/main.d06fb159.css",
-    "main.js": "/hw_ignat/static/js/main.733d185d.js",
+    "main.css": "/hw_ignat/static/css/main.942d21bb.css",
+    "main.js": "/hw_ignat/static/js/main.3dd2945f.js",
     "static/js/787.66cb4309.chunk.js": "/hw_ignat/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/hw_ignat/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/hw_ignat/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/prealoder.svg": "/hw_ignat/static/media/prealoder.1da098cf0fd499aa8d6bc08fd7f2af29.svg",
     "static/media/closeOutline.svg": "/hw_ignat/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/editIcon.svg": "/hw_ignat/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
     "static/media/checked.svg": "/hw_ignat/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/hw_ignat/index.html",
     "static/media/burger.svg": "/hw_ignat/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.d06fb159.css.map": "/hw_ignat/static/css/main.d06fb159.css.map",
-    "main.733d185d.js.map": "/hw_ignat/static/js/main.733d185d.js.map",
+    "main.942d21bb.css.map": "/hw_ignat/static/css/main.942d21bb.css.map",
+    "main.3dd2945f.js.map": "/hw_ignat/static/js/main.3dd2945f.js.map",
     "787.66cb4309.chunk.js.map": "/hw_ignat/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d06fb159.css",
-    "static/js/main.733d185d.js"
+    "static/css/main.942d21bb.css",
+    "static/js/main.3dd2945f.js"
   ]
 }
