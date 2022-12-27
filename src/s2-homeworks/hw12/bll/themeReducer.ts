@@ -7,7 +7,7 @@ const initState: ThemeType = {
     themeId: 1,
 }
 
-export const themeReducer = (state = initState, action: ActionsType): ThemeType => { // fix any
+export const themeReducer = (state = initState, action: ActionsType): ThemeType => {
     debugger
     switch (action.type) {
         // дописать
