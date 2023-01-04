@@ -75,7 +75,7 @@ const HW13 = () => {
                         // дописать
                         disabled={info === "...loading"}
                     >
-                        Send true
+                        True
                     </SuperButton>
                     <SuperButton
                         id={'hw13-send-false'}
@@ -84,7 +84,7 @@ const HW13 = () => {
                         // дописать
                         disabled={info === "...loading"}
                     >
-                        Send false
+                       False
                     </SuperButton>
                     <SuperButton
                         id={'hw13-send-undefined'}
@@ -93,7 +93,7 @@ const HW13 = () => {
                         // дописать
                         disabled={info === "...loading"}
                     >
-                        Send undefined
+                        Undefined
                     </SuperButton>
                     <SuperButton
                         id={'hw13-send-null'}
@@ -102,7 +102,7 @@ const HW13 = () => {
                         // дописать
                         disabled={info === "...loading"}
                     >
-                        Send null
+                        Null
                     </SuperButton>
                 </div>
 
