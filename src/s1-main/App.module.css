@@ -3,16 +3,15 @@
     width: 1280px;
     margin: 0 auto;
     padding: 50px 0 10px 70px;
-
 }
 
 .hw {
     border-bottom: 1px solid #D9D9D9;
+    padding: 10px;
 
 }
 
 .hwTitle {
-    font-family: 'Montserrat';
     font-style: normal;
     font-weight: 600;
     font-size: 22px;
